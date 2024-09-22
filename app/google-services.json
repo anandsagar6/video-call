@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "693648627565",
+    "firebase_url": "https://login-app-b7f46-default-rtdb.firebaseio.com",
+    "project_id": "login-app-b7f46",
+    "storage_bucket": "login-app-b7f46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693648627565:android:90784557d307c9edf3ec64",
+        "android_client_info": {
+          "package_name": "com.example.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693648627565-gdnef59c9gmqjfkvndrtfk1ddokl4as6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videocall",
+            "certificate_hash": "12f2249aada882d1402ae5487802334568bd995c"
+          }
+        },
+        {
+          "client_id": "693648627565-vd4qs17uahk4imp82gc80h3c1bqqfm3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoQ068LKxZW3cQyT8y4AqWMrn1dSCf88Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693648627565-ha3m3m4covkki9mtp1riapfbko6upgfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
